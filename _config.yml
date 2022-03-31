@@ -13,10 +13,10 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /my_CV/
-title: Mong Phan's Resume
-name: Mong Phan
-email: mongphantan@gmail.com
+baseurl: /vy_cv/
+title: Vy La's Resume
+name: Vy La Tuong
+email: vyvi.la78@gmail.com
 email_full: 
 website: 
 website_full: 
@@ -26,7 +26,7 @@ tel: +84 xxxx xxx xxx
 tel_full: tel:+840000000000
 google_maps: 
 address:
-  street: ABC street
+  street: Nguyen Thi Nho street
   postcode: 7000000
   city: Ho Chi Minh
   country: Vietnam
